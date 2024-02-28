@@ -1,20 +1,3 @@
-## **Configuração relacionada à segurança | Security-Related Configuration | Configuration liée à la sécurité**
-
-[PORTUGUÊS] O acesso a este sistema é reservado exclusivamente a utilizadores autorizados. Os acessos ou tentativas de utilização
-deste sistema serão monitorizados com a finalidade de preservar a segurança da informação e identificar eventuais
-atividades ilícitas. Os registos obtidos poderão ser disponibilizados às autoridades competentes sempre que esteja em
-causa o exercício de direitos ou o cumprimento de obrigações do responsável por este sistema de informação.
-
-[ENGLISH] Access to this system is exclusively reserved to authorized users. Access to or attempts to use this system will be
-monitored for the purpose of preserving the information security and to identify possible illicit activities. The obtained
-registers can be made available to the competent authorities in all cases of perceived infringement of the rights or
-obligations of the responsible of this information system.
-
-[FRANÇAIS] L'accès à ce système est strictement réservé aux utilisateurs habilités. Les accès ou tentatives d'utilisation de ce système
-seront surveillés avec la finalité de préserver la sécurité de l’information et d'identifier d'éventuels activités illicites. Les
-informations obtenues pourront être mises à la disposition des autorités compétentes dès lors que sera observée une
-violation des droits ou des obligations du Responsable de ce système d'information.
-
 ## **Relatar uma Vulnerabilidade | Report a Vulnerability | Signaler une vulnérabilité**
 
 [PORTUGUÊS] Se encontrar uma vulnerabilidade de segurança no nosso projeto, pedimos que nos informe imediatamente. Agradecemos a sua ajuda na proteção da segurança dos nossos utilizadores.
